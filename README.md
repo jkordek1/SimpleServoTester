@@ -20,3 +20,6 @@ Simple project for quick on-the-go servo testing. It has two different modes, ma
 - Powered by 2x18650 batteries
 - IN219 current sense IC
 - Rotary encoder for mode selection
+
+## BOM
+The components used are the ones that were available at-hand during the process of development. Therefore BOM for this project is not optimal.
