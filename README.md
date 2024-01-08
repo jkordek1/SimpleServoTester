@@ -4,7 +4,7 @@
 Still WIP
 
 ## About
-Simple electronic circuit for quick on-the-go servo testing. It has two different modes, manual one for controlling the servo position via rotary encoder and automatic (sweep) mode.
+Simple project for quick on-the-go servo testing. It has two different modes, manual one for controlling the servo position via rotary encoder and automatic (sweep) mode.
  
 ## Project status
 - [x] Breadboard prototype
