@@ -1,7 +1,6 @@
 # SimpleServoTester
 
-##
-Still WIP
+## This project is still WIP
 
 ## About
 Simple project for quick on-the-go servo testing. It has two different modes, manual one for controlling the servo position via rotary encoder and automatic (sweep) mode.
